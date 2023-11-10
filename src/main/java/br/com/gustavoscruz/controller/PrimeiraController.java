@@ -1,4 +1,4 @@
-package br.com.gustavoscruz.projetospringboot;
+package br.com.gustavoscruz.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
