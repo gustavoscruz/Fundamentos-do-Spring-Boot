@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.gustavoscruz</groupId>
 	<artifactId>projeto-springboot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>projeto-springboot</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
